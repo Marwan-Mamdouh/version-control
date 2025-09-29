@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "feat: add first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/Marwan-Mamdouh/version-control.git
+
+git push -u origin main
